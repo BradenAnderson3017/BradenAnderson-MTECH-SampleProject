@@ -36,3 +36,29 @@ h2 {
  padding-top: 100px;
   
 }
+h3 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  margin-bottom: -10px;
+}
+#nav{
+  display: inline;
+  
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  padding: 0 50px 0 50px;
+}
+#nav:hover{
+  color: maroon;
+  font-weight: 800;
+}
+#nav-bar{
+  display: flex;
+  justify-content: center;
+}
